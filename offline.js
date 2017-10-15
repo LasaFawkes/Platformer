@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1508035720,
+	"version": 1508079282,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,7 @@
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
 		"images/particles.png",
+		"images/explosion_magic-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
