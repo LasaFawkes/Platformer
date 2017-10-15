@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1508079282,
+	"version": 1508089737,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,12 +13,14 @@
 		"images/sign_02-sheet0.png",
 		"images/box-sheet0.png",
 		"images/heart_01-sheet0.png",
+		"images/trigger_menu-sheet0.png",
 		"images/trigger_death-sheet0.png",
-		"images/trigger_settings-sheet0.png",
+		"images/trigger_firstbox-sheet0.png",
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
 		"images/particles.png",
 		"images/explosion_magic-sheet0.png",
+		"images/chest-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
