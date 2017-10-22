@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1508089737,
+	"version": 1508632081,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,7 @@
 		"images/trigger_menu-sheet0.png",
 		"images/trigger_death-sheet0.png",
 		"images/trigger_firstbox-sheet0.png",
+		"images/trigger_dialogue_01-sheet0.png",
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
 		"images/particles.png",
