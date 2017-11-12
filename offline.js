@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1510522078,
+	"version": 1510524201,
 	"fileList": [
 		"data.js",
 		"game.html",
@@ -38,6 +38,7 @@
 		"images/mimic-sheet0.png",
 		"images/mimic-sheet1.png",
 		"images/mimic-sheet2.png",
+		"images/camera-sheet0.png",
 		"media/magic (loop).ogg",
 		"media/vindsvept - a world unbound.ogg",
 		"icon-16.png",

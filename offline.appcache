@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1510522078
+#1510524201
 data.js
 game.html
 c2runtime.js
@@ -37,6 +37,7 @@ images/evil_face-sheet1.png
 images/mimic-sheet0.png
 images/mimic-sheet1.png
 images/mimic-sheet2.png
+images/camera-sheet0.png
 media/magic%20(loop).ogg
 media/vindsvept%20-%20a%20world%20unbound.ogg
 icon-16.png
